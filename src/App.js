@@ -16,6 +16,7 @@ export class App extends React.Component {
 
     this.state = {
       searchResults: [],
+      test: [],
       playListName: "My PlayList",
       playlistTracks: [],
     };
